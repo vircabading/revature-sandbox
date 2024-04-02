@@ -1,0 +1,14 @@
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\bin\Debug\net8.0\sample1.exe
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\bin\Debug\net8.0\sample1.deps.json
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\bin\Debug\net8.0\sample1.runtimeconfig.json
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\bin\Debug\net8.0\sample1.dll
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\bin\Debug\net8.0\sample1.pdb
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\obj\Debug\net8.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\obj\Debug\net8.0\sample1.AssemblyInfoInputs.cache
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\obj\Debug\net8.0\sample1.AssemblyInfo.cs
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\obj\Debug\net8.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\obj\Debug\net8.0\sample1.dll
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\obj\Debug\net8.0\refint\sample1.dll
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\obj\Debug\net8.0\sample1.pdb
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\obj\Debug\net8.0\sample1.genruntimeconfig.cache
+C:\Users\Virgi\Documents\Val\Coding\Revature\240401\3-play-area\1-dotnet-hello\sample1\obj\Debug\net8.0\ref\sample1.dll
